@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Bootstrap code/Scrolly Navbar"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap-project",
+		"liveServer.settings.port": 5501
+	}
+}
